@@ -1,0 +1,79 @@
+{
+    "server": {
+      "privateKey": "MCKuOzdY5dHPaDSLbdV0yCv7xW3XtdjOuI1BQUqyAGA=",
+      "publicKey": "FMzjhcMND9A17cZn/ldv84X1gQ30ERPFJ8lIEL9A+1Q=",
+      "address": "10.8.0.1"
+    },
+    "clients": {
+      "46372e61-a4d4-4b3c-9b81-28508a211036": {
+        "name": "Aidar",
+        "address": "10.8.0.2",
+        "privateKey": "OGPbJ0MbPAl1QNj/Q8UjIvz9uXunqD2AKKY7jWm13ms=",
+        "publicKey": "3Re3ky6b5rO/4ngkv3Sfq8WuKATqcFUVKmPoodjylw8=",
+        "preSharedKey": "3J46lPBeEItAne5NcxbP0edsbkltn9wE8q3e28pfuWs=",
+        "createdAt": "2024-09-24T20:44:48.980Z",
+        "updatedAt": "2024-09-24T20:44:48.980Z",
+        "enabled": true
+      },
+      "4f4888af-0e50-427a-a1f8-7a00c8dcc318": {
+        "name": "Lyasan",
+        "address": "10.8.0.3",
+        "privateKey": "cDukWc4PxChAQN10umY6HK8PftNO1t/+yX9d3udTOU4=",
+        "publicKey": "NonC2CftZipQtG4t9L10lUFoYv5ZpXZEhlc+fPllAls=",
+        "preSharedKey": "hEVpFboPU/hB/qQudct80EFWHBf2C79qohVvc6KLMHU=",
+        "createdAt": "2024-09-24T20:46:10.995Z",
+        "updatedAt": "2024-09-24T20:46:10.995Z",
+        "enabled": true
+      },
+      "3106fc66-6af9-4dd6-9e64-58ba5c0649b3": {
+        "name": "TV",
+        "address": "10.8.0.4",
+        "privateKey": "mOhJkkN6JoMyzwWp2BNf63xku888JViTnooUhwZRnlI=",
+        "publicKey": "NwmGpzX8zcItpT0IGC0oIPHMOIhYx+5Rw7a0iRTlbTA=",
+        "preSharedKey": "0L7oJvXzGV6cnMNEwjgqgvQXMLbmdjIhuPX1jp3bFaM=",
+        "createdAt": "2024-09-24T20:47:16.900Z",
+        "updatedAt": "2024-09-24T20:47:16.900Z",
+        "enabled": true
+      },
+      "596005a0-2eec-4f15-bb60-151785646655": {
+        "name": "ilgam",
+        "address": "10.8.0.5",
+        "privateKey": "GCjd0GmDqBuPjKZ2AJQRFnn1X9e2/j4fPpQrI7c4hGo=",
+        "publicKey": "OyP5ObWf3oziqID0CNmI6HrYZsYXhlPu2akbvS1+Z24=",
+        "preSharedKey": "6tzRvxfk2AtX7QWkcygps4x783oyPHC15uk1vwFwqvo=",
+        "createdAt": "2024-09-25T02:43:11.963Z",
+        "updatedAt": "2024-09-25T02:43:11.963Z",
+        "enabled": true
+      },
+      "0cd506cf-6545-42b3-bd21-d20e5481c9c2": {
+        "name": "Sultan",
+        "address": "10.8.0.6",
+        "privateKey": "UAE64njAa2qrMSF/Ft54zIJmY0x6n88FAEigyLHguXY=",
+        "publicKey": "rjfd4YwOISyWlRbkT8oYTW68nxjzurWmiMjsspkWlj0=",
+        "preSharedKey": "TtAFYbYqldSDsdJvgn7Imqr2o4Z1Bi6/dvMWRf3iRcU=",
+        "createdAt": "2024-09-25T06:31:45.416Z",
+        "updatedAt": "2024-09-25T06:31:45.416Z",
+        "enabled": true
+      },
+      "06b41871-519c-4542-9ada-2f297c14f842": {
+        "name": "Sultan_PC",
+        "address": "10.8.0.7",
+        "privateKey": "qCNZR76hlRrkiN2g/Mylw25O006DlNbWl7++QQBYiFo=",
+        "publicKey": "40l72WkxLzTnlR6nu/NJ00pxP3jgAor50HOP2g9lhy0=",
+        "preSharedKey": "HIEZlqsSK57/UWRpfVzAuuDrPtCzKBsFu8TaIyTtBKw=",
+        "createdAt": "2024-09-25T06:35:39.315Z",
+        "updatedAt": "2024-09-25T06:35:39.315Z",
+        "enabled": true
+      },
+      "564ff569-0417-4dea-82f1-c1d4031ec5a1": {
+        "name": "Ilgam_TV",
+        "address": "10.8.0.8",
+        "privateKey": "AJn88ZdGGrAM2e2fL9GkEUZ9fGajMoHJ/NwvLHFmb3g=",
+        "publicKey": "Hti789biAn6S0m/EFwxt3ly1oamkbXNi3RpnGNMvBUE=",
+        "preSharedKey": "u8MOlilogS3jpbDO7k/V7ArJ/OA6cS+8KWAGL4dQsOM=",
+        "createdAt": "2024-09-26T02:34:22.601Z",
+        "updatedAt": "2024-09-26T02:34:22.601Z",
+        "enabled": true
+      }
+    }
+  }
